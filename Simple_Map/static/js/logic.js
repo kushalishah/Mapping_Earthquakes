@@ -26,3 +26,5 @@ cityData.forEach(function(city) {
 });
 
 
+// Accessing the Toronto neighborhoods GeoJSON URL.
+let torontoHoods = "https://raw.githubusercontent.com/kushalishah/Mapping_Earthquakes/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
